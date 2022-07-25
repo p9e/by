@@ -1,4 +1,4 @@
-# zlib license [@&hellip;](../../../)
+# zlib license <sup>[@p9e](../../../)
 
 ```
 This software is provided 'as-is', without any express or implied
